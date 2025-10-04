@@ -1,0 +1,251 @@
+item_id,restaurant_id,item_name,price
+1,49,Rasgulla,347.79
+2,7,Gulab Jamun,205.7
+3,8,Chole Bhature,313.79
+4,10,Chicken Biryani,106.31
+5,25,Samosa Chaat,297.43
+6,11,Gulab Jamun,565.55
+7,47,Gulab Jamun,178.71
+8,11,Fish Curry,597.9
+9,30,Fish Curry,537.12
+10,32,Butter Chicken,126.83
+11,26,Dal Tadka,317.76
+12,16,Hakka Noodles,383.34
+13,4,Paneer Tikka,226.31
+14,39,Fish Curry,228.59
+15,1,Chicken Biryani,304.08
+16,17,Rasgulla,477.21
+17,24,Paneer Tikka,288.3
+18,37,Aloo Paratha,181.22
+19,36,Momos,118.24
+20,33,Chicken 65,477.49
+21,18,Samosa Chaat,433.81
+22,8,Masala Dosa,587.04
+23,26,Rasgulla,493.35
+24,22,Aloo Paratha,568.25
+25,49,Masala Dosa,183.51
+26,33,Paneer Butter Masala,340.04
+27,3,Paneer Tikka,151.26
+28,22,Fish Curry,350.05
+29,10,Samosa Chaat,544.43
+30,9,Gulab Jamun,564.31
+31,21,Idli Sambar,284.34
+32,40,Momos,388.74
+33,33,Dal Tadka,356.82
+34,46,Pav Bhaji,235.89
+35,2,Rasgulla,252.24
+36,8,Kadai Paneer,383.53
+37,47,Butter Chicken,390.39
+38,17,Pav Bhaji,380.37
+39,47,Paneer Tikka,383.43
+40,11,Dal Tadka,407.09
+41,40,Paneer Butter Masala,156.84
+42,44,Fried Rice,96.42
+43,45,Chicken Biryani,179.21
+44,29,Gulab Jamun,297.77
+45,27,Hakka Noodles,293.4
+46,50,Samosa Chaat,558.67
+47,48,Paneer Tikka,447.0
+48,34,Hakka Noodles,371.66
+49,43,Fish Curry,353.25
+50,21,Idli Sambar,319.03
+51,35,Gulab Jamun,364.06
+52,44,Chole Bhature,397.24
+53,13,Fried Rice,225.08
+54,20,Fried Rice,569.57
+55,20,Momos,446.55
+56,45,Fish Curry,244.86
+57,23,Aloo Paratha,565.52
+58,47,Chole Bhature,229.65
+59,37,Aloo Paratha,277.44
+60,26,Rasgulla,576.4
+61,10,Momos,101.87
+62,46,Veg Biryani,260.11
+63,29,Chole Bhature,468.62
+64,14,Hakka Noodles,510.53
+65,18,Aloo Paratha,442.01
+66,9,Chicken Biryani,400.15
+67,38,Fried Rice,206.08
+68,43,Dal Tadka,197.35
+69,15,Paneer Tikka,132.1
+70,22,Fish Curry,132.28
+71,50,Masala Dosa,82.69
+72,36,Idli Sambar,291.59
+73,31,Fish Curry,418.28
+74,49,Momos,247.01
+75,42,Paneer Tikka,552.13
+76,6,Pav Bhaji,200.75
+77,48,Paneer Tikka,554.88
+78,12,Kadai Paneer,538.77
+79,12,Paneer Tikka,598.53
+80,26,Fish Curry,176.88
+81,48,Momos,535.91
+82,1,Momos,375.34
+83,7,Gulab Jamun,227.97
+84,42,Aloo Paratha,352.65
+85,9,Dal Tadka,323.37
+86,13,Chicken Biryani,251.96
+87,47,Chicken 65,417.11
+88,46,Idli Sambar,87.32
+89,22,Momos,375.25
+90,49,Hakka Noodles,171.26
+91,41,Paneer Butter Masala,510.03
+92,33,Gulab Jamun,125.1
+93,43,Chicken Biryani,176.09
+94,9,Fish Curry,248.27
+95,16,Butter Chicken,215.61
+96,16,Chicken 65,471.95
+97,22,Momos,382.88
+98,37,Butter Chicken,216.01
+99,24,Fried Rice,112.3
+100,8,Chicken 65,239.54
+101,26,Dal Tadka,560.02
+102,46,Momos,438.95
+103,41,Momos,271.12
+104,15,Fried Rice,577.83
+105,31,Masala Dosa,316.59
+106,39,Rasgulla,296.24
+107,36,Fish Curry,473.82
+108,43,Hakka Noodles,476.17
+109,44,Samosa Chaat,534.03
+110,6,Dal Tadka,312.31
+111,46,Rasgulla,120.61
+112,37,Chicken Biryani,112.11
+113,36,Dal Tadka,185.12
+114,35,Masala Dosa,165.56
+115,34,Chicken 65,140.44
+116,14,Pav Bhaji,334.19
+117,33,Chicken 65,500.52
+118,30,Masala Dosa,346.89
+119,30,Pav Bhaji,110.02
+120,30,Momos,456.11
+121,26,Chole Bhature,504.56
+122,48,Hakka Noodles,380.72
+123,3,Kadai Paneer,259.16
+124,5,Aloo Paratha,596.94
+125,5,Fish Curry,96.5
+126,27,Idli Sambar,479.87
+127,50,Kadai Paneer,274.72
+128,25,Chicken 65,532.2
+129,25,Paneer Butter Masala,121.73
+130,43,Aloo Paratha,149.15
+131,23,Chicken Biryani,172.81
+132,35,Paneer Butter Masala,355.0
+133,47,Fried Rice,514.11
+134,49,Butter Chicken,588.82
+135,30,Aloo Paratha,300.55
+136,25,Fried Rice,208.71
+137,23,Masala Dosa,223.34
+138,47,Chicken Biryani,96.75
+139,43,Kadai Paneer,399.76
+140,2,Fried Rice,187.16
+141,7,Samosa Chaat,97.46
+142,39,Paneer Tikka,207.26
+143,3,Paneer Butter Masala,308.26
+144,35,Hakka Noodles,472.28
+145,50,Paneer Tikka,152.87
+146,19,Fried Rice,504.21
+147,47,Pav Bhaji,245.83
+148,39,Gulab Jamun,203.19
+149,10,Dal Tadka,194.94
+150,20,Chole Bhature,111.7
+151,38,Idli Sambar,405.52
+152,28,Aloo Paratha,337.72
+153,23,Paneer Butter Masala,488.62
+154,21,Kadai Paneer,292.29
+155,20,Paneer Butter Masala,175.62
+156,35,Fish Curry,205.3
+157,15,Momos,525.92
+158,10,Chicken 65,555.67
+159,36,Kadai Paneer,583.25
+160,36,Dal Tadka,149.73
+161,16,Chole Bhature,185.74
+162,42,Veg Biryani,559.56
+163,24,Veg Biryani,358.53
+164,13,Paneer Tikka,219.6
+165,44,Samosa Chaat,393.52
+166,5,Hakka Noodles,498.42
+167,38,Aloo Paratha,192.85
+168,14,Gulab Jamun,237.66
+169,1,Hakka Noodles,567.32
+170,48,Chicken Biryani,468.38
+171,49,Fish Curry,555.51
+172,45,Samosa Chaat,445.96
+173,26,Fried Rice,367.08
+174,50,Momos,277.94
+175,35,Rasgulla,240.38
+176,24,Dal Tadka,539.06
+177,30,Chicken Biryani,497.46
+178,47,Fish Curry,476.05
+179,21,Hakka Noodles,272.77
+180,27,Paneer Tikka,372.51
+181,15,Masala Dosa,88.43
+182,36,Pav Bhaji,381.15
+183,27,Momos,159.25
+184,22,Fried Rice,277.52
+185,16,Fish Curry,366.33
+186,44,Gulab Jamun,213.81
+187,32,Fish Curry,319.63
+188,47,Rasgulla,168.02
+189,47,Aloo Paratha,333.92
+190,35,Paneer Tikka,352.45
+191,5,Paneer Tikka,477.46
+192,27,Masala Dosa,518.12
+193,15,Veg Biryani,447.73
+194,1,Hakka Noodles,342.98
+195,24,Paneer Tikka,401.27
+196,43,Samosa Chaat,554.63
+197,43,Fish Curry,88.18
+198,35,Aloo Paratha,293.9
+199,2,Dal Tadka,455.54
+200,35,Momos,88.91
+201,45,Kadai Paneer,499.21
+202,12,Chicken Biryani,557.39
+203,34,Masala Dosa,205.3
+204,40,Dal Tadka,211.26
+205,23,Chole Bhature,493.37
+206,6,Rasgulla,578.83
+207,30,Pav Bhaji,206.47
+208,45,Fried Rice,235.99
+209,6,Paneer Tikka,128.62
+210,25,Paneer Butter Masala,367.4
+211,4,Butter Chicken,445.48
+212,6,Fish Curry,519.57
+213,42,Gulab Jamun,374.25
+214,7,Dal Tadka,557.96
+215,15,Hakka Noodles,548.66
+216,45,Pav Bhaji,327.26
+217,3,Veg Biryani,435.9
+218,18,Aloo Paratha,373.03
+219,3,Idli Sambar,562.96
+220,21,Butter Chicken,579.96
+221,38,Masala Dosa,471.17
+222,46,Paneer Butter Masala,563.01
+223,20,Idli Sambar,373.26
+224,37,Paneer Butter Masala,432.06
+225,35,Gulab Jamun,279.6
+226,48,Masala Dosa,491.06
+227,45,Veg Biryani,340.41
+228,23,Paneer Tikka,130.8
+229,15,Veg Biryani,257.11
+230,50,Samosa Chaat,576.53
+231,26,Gulab Jamun,95.41
+232,18,Chicken 65,335.11
+233,23,Aloo Paratha,569.39
+234,28,Idli Sambar,433.44
+235,43,Paneer Butter Masala,124.56
+236,40,Momos,494.99
+237,46,Veg Biryani,122.66
+238,10,Paneer Butter Masala,450.07
+239,41,Masala Dosa,464.62
+240,21,Rasgulla,135.41
+241,1,Momos,311.26
+242,49,Chole Bhature,133.16
+243,6,Idli Sambar,304.11
+244,36,Aloo Paratha,346.47
+245,7,Butter Chicken,126.6
+246,36,Veg Biryani,390.4
+247,21,Paneer Butter Masala,86.42
+248,27,Paneer Butter Masala,485.17
+249,47,Aloo Paratha,550.71
+250,16,Pav Bhaji,350.97
